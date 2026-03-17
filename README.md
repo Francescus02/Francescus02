@@ -11,7 +11,7 @@ I am a Computer Engineer specializing in the fundamentals of Artificial Intellig
 ## 🛠️ Tech Stack & Skills
 * **Programming Languages:** Python, C++, Java, C#, SQL, MATLAB
 * **Libraries & Frameworks:** PyTorch, TensorFlow, Scikit-learn, Pandas, Numpy, ROS, ROS2
-* **Core Competencies:** Reinforcement Learning (PPO, DQN), Computer Vision (YOLO, CNNs), Recurrent Architectures, Graph Theory & fMRI Data Analysis, NLP / LLM.
+* **Core Competencies:** Reinforcement Learning (PPO, DQN), Computer Vision (YOLO, CNNs), Ensemble NMT & MBR Decoding, LLM Inference Optimization, Graph Theory & fMRI Data Analysis, NLP/LLM (ByT5, RAG).
 
 ## 🚀 Featured Projects
 
