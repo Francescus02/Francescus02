@@ -30,3 +30,5 @@ I am a Computer Engineer specializing in the fundamentals of Artificial Intellig
 * **EEG-Based Motor Imagery BCI Pipeline** Engineered a real-time Brain-Computer Interface using EEG data to classify hands versus feet motor imagery. The pipeline features Laplacian spatial filtering, PSD-based feature extraction , and a Single Sample LDA classifier enhanced by an evidence accumulation framework to translate raw probabilities into stable continuous control commands.
 
 * **Hybrid Ensemble NMT for Akkadian Translation** Engineered a ByT5 inference pipeline for the Deep Past Initiative machine translation challenge. Implemented a Hybrid Minimum Bayes Risk (MBR) decoding strategy that merges multi-model candidate pools to implicitly capture cross-model consensus. Optimized inference through sequential model orchestration, dynamic bucket-batching, and an adaptive beam search mechanism. (Reached top ~10% with a top score in the ~4%)
+
+* **Currently working on:** BirdCLEF+ 2026 (Acoustic Species Identification in the Pantanal, South America)
