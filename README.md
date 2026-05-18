@@ -10,10 +10,12 @@ I am a Computer Engineer specializing in the fundamentals of Artificial Intellig
 
 ## 🛠️ Tech Stack & Skills
 * **Programming Languages:** Python, C++, Java, C#, SQL, MATLAB
-* **Libraries & Frameworks:** PyTorch, TensorFlow, Scikit-learn, Pandas, Numpy, ROS, ROS2
-* **Core Competencies:** Reinforcement Learning (PPO, DQN), Computer Vision (YOLO, CNNs), Ensemble NMT & MBR Decoding, LLM Inference Optimization, Graph Theory & fMRI Data Analysis, NLP/LLM (ByT5, RAG).
+* **Libraries & Frameworks:** PyTorch, TensorFlow, Scikit-learn, Pandas, Numpy, ROS, ROS2, FAISS, Sentence-Transformers
+* **Core Competencies:** Reinforcement Learning (PPO, DQN), Computer Vision (YOLO, CNNs), Ensemble NMT & MBR Decoding, LLM Inference Optimization, Graph Theory & fMRI Data Analysis, NLP (ByT5, Ensemble NMT), RAG Architectures (Semantic Routing, Vector Search)
 
 ## 🚀 Featured Projects
+
+* **Training-Free Adaptive Semantic Routing for RAG Systems** Engineered a framework to optimize RAG architectures using Llama 3.1 8B and FAISS. The system features a decoupled Shannon entropy probe for pre-retrieval routing and distributional heuristics for post-retrieval query expansion. Built a custom hard-negative corpus via Wikipedia API with strict anti-contamination filters. Demonstrated ~15% computational savings on PopQA with preserved accuracy.
 
 * **Reinforcement Learning for Snake: From Tactical Heuristics to Recurrent Agents** Developed a PPO-based pipeline to solve Snake under fully and partially observable conditions. Leveraged CNNs for full visibility, and a GRU-based Recurrent PPO to encode temporal memory in restricted views. Optimized training stability via curriculum learning and reward shaping.
 
