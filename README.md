@@ -1,6 +1,6 @@
 # Hi there, I'm Francesco 👋
 
-I am a Computer Engineer specializing in the fundamentals of Artificial Intelligence. I hold a Bachelor's degree in Computer Engineering from the University of Padua (September 2024) and I am currently pursuing my Master's degree in AI and Robotics. My expertise lies in building efficient Deep Learning models, exploring Reinforcement Learning, and tackling complex data analysis. Right now, my main focus is on developing and fine-tuning LLMs with RAG (Retrieval-Augmented Generation) architectures for industrial assistance chatbots.
+I am a Computer Engineer specializing in the fundamentals of Artificial Intelligence. I hold a Bachelor's degree in Computer Engineering from the University of Padua (September 2024) and I am currently pursuing my Master's degree in AI and Robotics. My expertise lies in building efficient Deep Learning models, exploring Reinforcement Learning, and tackling complex data analysis. Right now, my main focus is on developing and fine-tuning LLMs with RAG (Retrieval-Augmented Generation) architectures for industrial assistance chatbots. Alongside my main focus, I have a strong foundation in Quantum Information and Computing.
 
 ## 🎓 Education
 * **M.Sc. in Computer Engineering (AI & Robotics)** — University of Padua *(Current)*
@@ -10,8 +10,12 @@ I am a Computer Engineer specializing in the fundamentals of Artificial Intellig
 
 ## 🛠️ Tech Stack & Skills
 * **Programming Languages:** Python, C++, Java, C#, SQL, MATLAB
-* **Libraries & Frameworks:** PyTorch, TensorFlow, Scikit-learn, Pandas, Numpy, ROS, ROS2, FAISS, Sentence-Transformers
-* **Core Competencies:** Reinforcement Learning (PPO, DQN), Computer Vision (YOLO, CNNs), Ensemble NMT & MBR Decoding, LLM Inference Optimization, Graph Theory & fMRI Data Analysis, NLP (ByT5, Ensemble NMT), RAG Architectures (Semantic Routing, Vector Search)
+* **Libraries & Frameworks:** PyTorch, TensorFlow, Scikit-learn, Pandas, Numpy, ROS, ROS2, FAISS, Sentence-Transformers, Qiskit
+* **Core Competencies:** Reinforcement Learning (PPO, DQN), Computer Vision (YOLO, CNNs), Ensemble NMT & MBR Decoding, LLM Inference Optimization, Graph Theory & fMRI Data Analysis, NLP (ByT5, Ensemble NMT), RAG Architectures (Semantic Routing, Vector Search), Quantum Computing
+
+## 📜 Certifications | [🔗 Credly Profile](https://www.credly.com/users/francesco-campigotto)
+* **Foundations of Quantum Computing (60h)** — *IBM Quantum Learning*
+   * *Topics covered:* Quantum Information Theory, Quantum Circuits & Entanglement, Algorithms (Search, Integer Factoring), Density Matrices, Quantum Channels, and Fault-Tolerant Error-Correcting Codes.
 
 ## 🚀 Featured Projects
 
