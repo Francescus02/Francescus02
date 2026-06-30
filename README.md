@@ -37,4 +37,4 @@ I am a Computer Engineer specializing in the fundamentals of Artificial Intellig
 
 * **Hybrid Ensemble NMT for Akkadian Translation** Engineered a ByT5 inference pipeline for the Deep Past Initiative machine translation challenge. Implemented a Hybrid Minimum Bayes Risk (MBR) decoding strategy that merges multi-model candidate pools to implicitly capture cross-model consensus. Optimized inference through sequential model orchestration, dynamic bucket-batching, and an adaptive beam search mechanism. (Reached top ~10% with a top score in the ~4%)
 
-* **Currently working on:** BirdCLEF+ 2026 (Acoustic Species Identification in the Pantanal, South America)
+* **Hybrid ProtoSSM SED Ensemble for Bioacoustic Classification** Developed a hybrid system that classifies 234 species from wetland soundscapes by combining a prototype-initialized selective state-space model (ProtoSSM) on frozen embeddings with an EfficientNet sound event detection ensemble, fused via calibration-invariant rank-average blending, and employed an asymmetric taxonomy-aware label smoothing scheme. (Reached top ~10% with a top score in the ~5%)
