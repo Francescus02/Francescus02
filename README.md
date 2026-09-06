@@ -14,10 +14,16 @@ I am a Computer Engineer specializing in the fundamentals of Artificial Intellig
 * **Core Competencies:** Reinforcement Learning (PPO, DQN), Computer Vision (YOLO, CNNs), Ensemble NMT & MBR Decoding, LLM Inference Optimization, Graph Theory & fMRI Data Analysis, NLP (ByT5, Ensemble NMT), RAG Architectures (Semantic Routing, Vector Search), Quantum Computing
 
 ## 📜 Certifications | [🔗 Credly Profile](https://www.credly.com/users/francesco-campigotto)
-* **Foundations of Quantum Computing (60h)** — *IBM Quantum Learning*
-   * *Topics covered:* Quantum Information Theory, Quantum Circuits & Entanglement, Algorithms (Search, Integer Factoring), Density Matrices, Quantum Channels, and Fault-Tolerant Error-Correcting Codes.
-* [**Neo4j & Generative AI Certification**](https://graphacademy.neo4j.com/c/e308bbeb-aeaf-4653-b672-fff7a35bec28) — *Neo4j GraphAcademy*
-   * *Topics covered:* Neo4j fundamentals for GenAI, graph data modeling for RAG, vector embeddings, neo4j-graphrag library, knowledge graph construction and MCP tools.
+
+### IBM Quantum Learning
+* **Foundations of Quantum Computing (60h)**
+   * *Topics covered:* Quantum Information Theory, Quantum Circuits & Entanglement, Algorithms and Quantum Channels.
+
+### Neo4j GraphAcademy
+* [**Neo4j & Generative AI Certification**](https://graphacademy.neo4j.com/c/e308bbeb-aeaf-4653-b672-fff7a35bec28)
+   * *Topics covered:* Neo4j for GenAI, graph modeling for RAG, vector embeddings, knowledge graphs and MCP tools.
+* [**Neo4j Certified Professional**](https://graphacademy.neo4j.com/c/a33738b6-f7fc-43da-adea-62aaef0cc88c) 
+   * *Topics covered:* Graph theory, Cypher, data modeling, data import and drivers.
 
 ## 🚀 Featured Projects
 
