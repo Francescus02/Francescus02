@@ -16,6 +16,8 @@ I am a Computer Engineer specializing in the fundamentals of Artificial Intellig
 ## 📜 Certifications | [🔗 Credly Profile](https://www.credly.com/users/francesco-campigotto)
 * **Foundations of Quantum Computing (60h)** — *IBM Quantum Learning*
    * *Topics covered:* Quantum Information Theory, Quantum Circuits & Entanglement, Algorithms (Search, Integer Factoring), Density Matrices, Quantum Channels, and Fault-Tolerant Error-Correcting Codes.
+* [**Neo4j & Generative AI Certification**](https://graphacademy.neo4j.com/c/e308bbeb-aeaf-4653-b672-fff7a35bec28) — *Neo4j GraphAcademy*
+   * *Topics covered:* Neo4j fundamentals for GenAI, graph data modeling for RAG, vector embeddings, neo4j-graphrag library, knowledge graph construction and MCP tools.
 
 ## 🚀 Featured Projects
 
