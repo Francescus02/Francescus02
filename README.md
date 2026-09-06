@@ -24,6 +24,8 @@ I am a Computer Engineer specializing in the fundamentals of Artificial Intellig
    * *Topics covered:* Neo4j for GenAI, graph modeling for RAG, vector embeddings, knowledge graphs and MCP tools.
 * [**Neo4j Certified Professional**](https://graphacademy.neo4j.com/c/a33738b6-f7fc-43da-adea-62aaef0cc88c) 
    * *Topics covered:* Graph theory, Cypher, data modeling, data import and drivers.
+* [**Neo4j Graph Data Science Certification**](https://graphacademy.neo4j.com/c/60fb0003-d1ea-451b-b37d-ab2fc6dea49a)
+   * *Topics covered:* GDS algorithms, graph projections, analytics workflows, Cypher and library usage.
 
 ## 🚀 Featured Projects
 
