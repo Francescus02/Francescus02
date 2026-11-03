@@ -6,7 +6,7 @@ I am a Computer Engineer specializing in the fundamentals of Artificial Intellig
 * **M.Sc. in Computer Engineering (AI & Robotics)** — University of Padua *(October 2026)*
     * *Thesis:* Design and Implementation of a RAG-Based Conversational Assistant for Industrial Technical Support.
 * **B.Sc. in Computer Engineering** — University of Padua *(September 2024)*
-    * *Thesis:* Hardware acceleration of post-processing algorithms for Quantum Key Distribution (BB84 protocol) via System-on-a-chip (SoC).
+    * *Thesis:* Hardware acceleration of post-processing algorithms for Quantum Key Distribution via System-on-a-chip.
 
 ## 🛠️ Tech Stack & Skills
 * **Programming Languages:** Python, C++, Java, C#, SQL, MATLAB
