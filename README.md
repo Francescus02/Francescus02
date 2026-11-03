@@ -1,17 +1,17 @@
 # Hi there, I'm Francesco 👋
 
-I am a Computer Engineer specializing in the fundamentals of Artificial Intelligence. I hold a Bachelor's degree in Computer Engineering from the University of Padua (September 2024) and I am currently pursuing my Master's degree in AI and Robotics. My expertise lies in building efficient Deep Learning models, exploring Reinforcement Learning, and tackling complex data analysis. Right now, my main focus is on developing and fine-tuning LLMs with RAG (Retrieval-Augmented Generation) architectures for industrial assistance chatbots. Alongside my main focus, I have a strong foundation in Quantum Information and Computing.
+I am a Computer Engineer specializing in the fundamentals of Artificial Intelligence. I hold a Bachelor's degree in Computer Engineering from the University of Padua (September 2024) and a Master's degree in AI and Robotics from the same university (October 2026). My expertise lies in building efficient Deep Learning models, exploring Reinforcement Learning, and tackling complex data analysis. My research interests span LLM development and fine-tuning, RAG architectures for industrial assistance and reinforcement learning for sequential decision-making. Alongside my main focus, I have a strong foundation in Quantum Information and Computing.
 
 ## 🎓 Education
-* **M.Sc. in Computer Engineering (AI & Robotics)** — University of Padua *(Current)*
-    * *Current Focus:* Industrial applications of LLMs and RAG pipelines.
+* **M.Sc. in Computer Engineering (AI & Robotics)** — University of Padua *(October 2026)*
+    * *Thesis:* Design and Implementation of a RAG-Based Conversational Assistant for Industrial Technical Support.
 * **B.Sc. in Computer Engineering** — University of Padua *(September 2024)*
     * *Thesis:* Hardware acceleration of post-processing algorithms for Quantum Key Distribution (BB84 protocol) via System-on-a-chip (SoC).
 
 ## 🛠️ Tech Stack & Skills
 * **Programming Languages:** Python, C++, Java, C#, SQL, MATLAB
 * **Libraries & Frameworks:** PyTorch, TensorFlow, Scikit-learn, Pandas, Numpy, ROS, ROS2, FAISS, Sentence-Transformers, Qiskit
-* **Core Competencies:** Reinforcement Learning (PPO, DQN), Computer Vision (YOLO, CNNs), Ensemble NMT & MBR Decoding, LLM Inference Optimization, Graph Theory & fMRI Data Analysis, NLP (ByT5, Ensemble NMT), RAG Architectures (Semantic Routing, Vector Search), Quantum Computing
+* **Core Competencies:** Reinforcement Learning (PPO, DQN, DAgger), Computer Vision (YOLO, CNNs), Ensemble NMT & MBR Decoding, LLM Inference Optimization, Graph Theory & fMRI Data Analysis, NLP (ByT5, Ensemble NMT), RAG Architectures (Semantic Routing, Vector Search), Quantum Computing
 
 ## 📜 Certifications | [🔗 Credly Profile](https://www.credly.com/users/francesco-campigotto)
 
@@ -39,7 +39,7 @@ I am a Computer Engineer specializing in the fundamentals of Artificial Intellig
 
 * **Face Detection & Emotion Recognition Pipeline** Developed an end-to-end Computer Vision architecture integrating an optimized Viola-Jones face detector with a custom attention-based CNN. Leveraged Squeeze-and-Excitation and Channel Attention modules for fine-grained emotion classification on a balanced FER-2013 dataset, analyzing end-to-end performance and cross-dataset domain shift challenges.
 
-* **Dracula vs Van Helsing: Imitation Learning and League Self-Play** Engineered a four-stage pipeline (behavioural cloning, DAgger, PPO, league self-play) to train two neural agents for an asymmetric hidden-information card game. Designed a leak-free observation with rank-canonical encoding and Bayesian unseen-card statistics. Final agents beat their minimax teacher by ≈5 pp with transitive cross-role strength.
+* **Dracula vs Van Helsing: Imitation Learning and League Self-Play** Engineered a four-stage pipeline (behavioural cloning, DAgger, PPO, league self-play) to train two neural agents for an asymmetric hidden-information card game. Designed a leak-free observation with rank-canonical encoding and Bayesian unseen-card statistics, which allowed to break the imitation plateau. Final agents beat their minimax teacher by ≈5 pp with transitive cross-role strength.
 
 * **Hybrid Navigation & LiDAR Perception for Mobile Robotics** Developed a distributed ROS 2 architecture for the TurtleBot3 platform. Built a hybrid pathfinding system that transitions between Nav2 global planning and a custom reactive controller for constrained corridors. Engineered an on-demand 2D LiDAR perception pipeline utilizing DBSCAN clustering and RANSAC circle fitting for geometric object detection.
 
