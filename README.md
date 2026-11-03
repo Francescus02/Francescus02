@@ -29,24 +29,34 @@ I am a Computer Engineer specializing in the fundamentals of Artificial Intellig
 
 ## 🚀 Featured Projects
 
-* **Training-Free Adaptive Semantic Routing for RAG Systems** Engineered a framework to optimize RAG architectures using Llama 3.1 8B and FAISS. The system features a decoupled Shannon entropy probe for pre-retrieval routing and distributional heuristics for post-retrieval query expansion. Built a custom hard-negative corpus via Wikipedia API with strict anti-contamination filters. Demonstrated ~15% computational savings on PopQA with preserved accuracy.
-
-* **Reinforcement Learning for Snake: From Tactical Heuristics to Recurrent Agents** Developed a PPO-based pipeline to solve Snake under fully and partially observable conditions. Leveraged CNNs for full visibility, and a GRU-based Recurrent PPO to encode temporal memory in restricted views. Optimized training stability via curriculum learning and reward shaping.
-
-* **Lightweight Cloud Instance Segmentation for Planetary Exploration** Developed a highly efficient, real-time Deep Learning pipeline utilizing YOLOv11n-seg to detect and segment clouds on Saturn's moon, Titan. Mitigated data scarcity via transfer learning from Earth cloud datasets and extensive domain-specific augmentations, optimizing the model footprint and inference latency for potential deployment on resource-constrained spacecraft systems.
+### 🏥 Healthcare & Biomedical AI
 
 * **Graph-Based Brain Network Analysis & Predictive Modelling for ASD** Conducted a comparative study of healthy and pathological brains using graph theory on fMRI data. Extended this research to develop predictive modeling and progression analysis of Autism Spectrum Disorder (ASD) utilizing brain connectivity metrics.
 
-* **Face Detection & Emotion Recognition Pipeline** Developed an end-to-end Computer Vision architecture integrating an optimized Viola-Jones face detector with a custom attention-based CNN. Leveraged Squeeze-and-Excitation and Channel Attention modules for fine-grained emotion classification on a balanced FER-2013 dataset, analyzing end-to-end performance and cross-dataset domain shift challenges.
+* **EEG-Based Motor Imagery BCI Pipeline** Engineered a real-time Brain-Computer Interface using EEG data to classify hands versus feet motor imagery. The pipeline features Laplacian spatial filtering, PSD-based feature extraction , and a Single Sample LDA classifier enhanced by an evidence accumulation framework to translate raw probabilities into stable continuous control commands.
 
-* **Dracula vs Van Helsing: Imitation Learning and League Self-Play** Engineered a four-stage pipeline (behavioural cloning, DAgger, PPO, league self-play) to train two neural agents for an asymmetric hidden-information card game. Designed a leak-free observation with rank-canonical encoding and Bayesian unseen-card statistics, which allowed to break the imitation plateau. Final agents beat their minimax teacher by ≈5 pp with transitive cross-role strength.
+### 🤖 Robotics & Embodied AI
 
 * **Hybrid Navigation & LiDAR Perception for Mobile Robotics** Developed a distributed ROS 2 architecture for the TurtleBot3 platform. Built a hybrid pathfinding system that transitions between Nav2 global planning and a custom reactive controller for constrained corridors. Engineered an on-demand 2D LiDAR perception pipeline utilizing DBSCAN clustering and RANSAC circle fitting for geometric object detection.
 
 * **Robust Robotic Manipulation & Projection-Based Vision** Designed a MoveIt-based manipulation framework for a UR5 robotic arm to execute complex pick-and-place operations. Implemented a custom projection-based color detection algorithm (pinhole model), a hierarchical motion planning fallback strategy to automatically resolve collision and singularity failures, and a sensorless grasp execution system relying on real-time joint velocity analysis.
 
-* **EEG-Based Motor Imagery BCI Pipeline** Engineered a real-time Brain-Computer Interface using EEG data to classify hands versus feet motor imagery. The pipeline features Laplacian spatial filtering, PSD-based feature extraction , and a Single Sample LDA classifier enhanced by an evidence accumulation framework to translate raw probabilities into stable continuous control commands.
+### 🎮 Reinforcement Learning & Strategic Games
+
+* **Reinforcement Learning for Snake: From Tactical Heuristics to Recurrent Agents** Developed a PPO-based pipeline to solve Snake under fully and partially observable conditions. Leveraged CNNs for full visibility, and a GRU-based Recurrent PPO to encode temporal memory in restricted views. Optimized training stability via curriculum learning and reward shaping.
+
+* **Dracula vs Van Helsing: Imitation Learning and League Self-Play** Engineered a four-stage pipeline (behavioural cloning, DAgger, PPO, league self-play) to train two neural agents for an asymmetric hidden-information card game. Designed a leak-free observation with rank-canonical encoding and Bayesian unseen-card statistics, which allowed to break the imitation plateau. Final agents beat their minimax teacher by ≈5 pp with transitive cross-role strength.
+
+### 💬 Natural Language Processing
+
+* **Training-Free Adaptive Semantic Routing for RAG Systems** Engineered a framework to optimize RAG architectures using Llama 3.1 8B and FAISS. The system features a decoupled Shannon entropy probe for pre-retrieval routing and distributional heuristics for post-retrieval query expansion. Built a custom hard-negative corpus via Wikipedia API with strict anti-contamination filters. Demonstrated ~15% computational savings on PopQA with preserved accuracy.
 
 * **Hybrid Ensemble NMT for Akkadian Translation** Engineered a ByT5 inference pipeline for the Deep Past Initiative machine translation challenge. Implemented a Hybrid Minimum Bayes Risk (MBR) decoding strategy that merges multi-model candidate pools to implicitly capture cross-model consensus. Optimized inference through sequential model orchestration, dynamic bucket-batching, and an adaptive beam search mechanism. (Reached top ~10% with a top score in the ~4%)
+
+### 👁️ Perception & Audio
+
+* **Lightweight Cloud Instance Segmentation for Planetary Exploration** Developed a highly efficient, real-time Deep Learning pipeline utilizing YOLOv11n-seg to detect and segment clouds on Saturn's moon, Titan. Mitigated data scarcity via transfer learning from Earth cloud datasets and extensive domain-specific augmentations, optimizing the model footprint and inference latency for potential deployment on resource-constrained spacecraft systems.
+
+* **Face Detection & Emotion Recognition Pipeline** Developed an end-to-end Computer Vision architecture integrating an optimized Viola-Jones face detector with a custom attention-based CNN. Leveraged Squeeze-and-Excitation and Channel Attention modules for fine-grained emotion classification on a balanced FER-2013 dataset, analyzing end-to-end performance and cross-dataset domain shift challenges.
 
 * **Hybrid ProtoSSM SED Ensemble for Bioacoustic Classification** Developed a hybrid system that classifies 234 species from wetland soundscapes by combining a prototype-initialized selective state-space model (ProtoSSM) on frozen embeddings with an EfficientNet sound event detection ensemble, fused via calibration-invariant rank-average blending, and employed an asymmetric taxonomy-aware label smoothing scheme. (Reached top ~10% with a top score in the ~5%)
