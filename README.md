@@ -39,6 +39,8 @@ I am a Computer Engineer specializing in the fundamentals of Artificial Intellig
 
 * **Face Detection & Emotion Recognition Pipeline** Developed an end-to-end Computer Vision architecture integrating an optimized Viola-Jones face detector with a custom attention-based CNN. Leveraged Squeeze-and-Excitation and Channel Attention modules for fine-grained emotion classification on a balanced FER-2013 dataset, analyzing end-to-end performance and cross-dataset domain shift challenges.
 
+* **Dracula vs Van Helsing: Imitation Learning and League Self-Play** Engineered a four-stage pipeline (behavioural cloning, DAgger, PPO, league self-play) to train two neural agents for an asymmetric hidden-information card game. Designed a leak-free observation with rank-canonical encoding and Bayesian unseen-card statistics. Final agents beat their minimax teacher by ≈5 pp with transitive cross-role strength.
+
 * **Hybrid Navigation & LiDAR Perception for Mobile Robotics** Developed a distributed ROS 2 architecture for the TurtleBot3 platform. Built a hybrid pathfinding system that transitions between Nav2 global planning and a custom reactive controller for constrained corridors. Engineered an on-demand 2D LiDAR perception pipeline utilizing DBSCAN clustering and RANSAC circle fitting for geometric object detection.
 
 * **Robust Robotic Manipulation & Projection-Based Vision** Designed a MoveIt-based manipulation framework for a UR5 robotic arm to execute complex pick-and-place operations. Implemented a custom projection-based color detection algorithm (pinhole model), a hierarchical motion planning fallback strategy to automatically resolve collision and singularity failures, and a sensorless grasp execution system relying on real-time joint velocity analysis.
